@@ -1,7 +1,7 @@
 # NLP Task Workflow
 Import Libraries: Begin by importing essential Python libraries such as nltk for natural language processing, sklearn for machine learning tools, and pandas for data handling.
 
-* Data Collection: 
+- Data Collection: 
 Load the dataset (e.g., Amazon product reviews) into a DataFrame using pandas. This dataset includes columns like Name, Stars, Title, and Description.
 
 * Data Cleaning:
