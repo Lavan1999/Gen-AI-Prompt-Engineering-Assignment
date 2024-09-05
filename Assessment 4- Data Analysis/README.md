@@ -11,11 +11,11 @@ Conducted preliminary analysis to understand the distribution of sales across st
 Used statistical techniques to explore correlations between variables like fuel price, unemployment rate, and sales.
 
 ## 4. Key Analyses Performed
-Store Type Comparisons: Calculated the average sales for different store types in specific months and across holidays.
-Leap Year Analysis: Identified underperforming stores in leap years.
-Unemployment Impact: Assessed department sales when unemployment rates were high (> 8%).
-Weekly Sales Leaderboards: Determined which stores recorded the highest weekly sales and lowest fuel prices.
-Offer-Free Sales: Evaluated store performance without promotional markdowns.
+- Store Type Comparisons: Calculated the average sales for different store types in specific months and across holidays.
+- Leap Year Analysis: Identified underperforming stores in leap years.
+- Unemployment Impact: Assessed department sales when unemployment rates were high (> 8%).
+- Weekly Sales Leaderboards: Determined which stores recorded the highest weekly sales and lowest fuel prices.
+- Offer-Free Sales: Evaluated store performance without promotional markdowns.
 
 ## 5. Visualization
 Created charts and graphs to visualize key insights, such as sales trends, best-performing stores, and department comparisons.
