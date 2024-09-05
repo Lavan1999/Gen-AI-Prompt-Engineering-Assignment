@@ -1,5 +1,6 @@
 # Brief Explanation of the Text Generation Task
-Objective: Create a text generation model using a pre-trained transformer model from Hugging Face's Transformers library.
+## Objective: 
+Create a text generation model using a pre-trained transformer model from Hugging Face's Transformers library.
 
 ## Steps Taken:
 ## Setup Environment:
